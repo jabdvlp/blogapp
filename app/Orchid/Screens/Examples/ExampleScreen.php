@@ -32,14 +32,14 @@ class ExampleScreen extends Screen
      *
      * @var string
      */
-    public $name = 'Example screen';
+    public $name = 'Articles';
 
     /**
      * Display header description.
      *
      * @var string
      */
-    public $description = 'Sample Screen Components';
+    public $description = 'Article Screen Components';
 
     /**
      * Query data.
